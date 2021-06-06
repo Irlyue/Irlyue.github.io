@@ -30,7 +30,8 @@ twitter_username: jekyllrb
 github_username:  Irlyue
 
 # Build settings
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
