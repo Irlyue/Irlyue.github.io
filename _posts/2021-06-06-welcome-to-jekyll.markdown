@@ -1,7 +1,7 @@
 ---
 toc: true
 toc_label: "My Table of Contents"
-toc_icon: "cog"
+toc_icon: "columns"
 toc_sticky: true
 layout: single
 title:  "Welcome to Jekyll!"
