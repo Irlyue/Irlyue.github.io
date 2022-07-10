@@ -6,7 +6,7 @@ toc_sticky: true
 layout: single
 title: "经济学人-农夫山泉"
 date: 2022-07-09 11:20:00 +0800
-categories: economics
+categories: english learning,economist
 ---
 
 # Nongfu spring
