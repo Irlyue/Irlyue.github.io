@@ -1,0 +1,16 @@
+---
+toc: true
+toc_label: "Contents"
+toc_icon: "columns"
+toc_sticky: true
+layout: single
+title:  "golang materials"
+date:   2021-10-30 11:55:00 +0800
+categories: golang
+---
+
+# golang materials
+
+## Reflection
+- [The Laws of Reflection](https://go.dev/blog/laws-of-reflection): 反射入门
+- [Go Data Structures: Interfaces](https://research.swtch.com/interfaces): The Laws of Reflection文章里提到的，讲go语言的interface是如何实现的。
