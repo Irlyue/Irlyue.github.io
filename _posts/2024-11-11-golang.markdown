@@ -4,8 +4,7 @@ toc_label: "Contents"
 toc_icon: "columns"
 toc_sticky: true
 layout: single
-title:  "golang materials"
-date:   2021-10-30 11:55:00 +0800
+title: "golang materials"
 categories: golang
 ---
 
